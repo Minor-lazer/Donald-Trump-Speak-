@@ -1,0 +1,64 @@
+#txt-input
+{
+   display:block;
+   margin-left: auto;
+   margin-right:auto;
+   margin-bottom: 30px;
+   width: 300px;
+   height:100px;
+   margin-top:30px;
+}
+
+#output
+{
+
+    width:300px;
+    height:100px;
+    border:1px solid black;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:30px;
+    margin-bottom:30px;
+    background-color: white;
+}
+
+#nav-bar
+{
+    margin:0;
+    padding:0;
+    height:100px;
+    margin-bottom:10px;
+    background-color:black;
+ 
+}
+
+
+
+#wrapper
+{
+    text-align:center;
+
+}
+
+#btn-translate
+{
+
+    top: 50%;
+    height:50px;
+    width:100px;
+    margin-left: auto;
+    margin-right:auto;
+    background-color:brown
+  
+  
+}
+
+#footer
+{
+    background-image:url("image/shakes1.jpg");
+    height:100px;
+    width:auto;
+    
+}
+
+
