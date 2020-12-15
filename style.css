@@ -20,6 +20,7 @@
     margin-top:30px;
     margin-bottom:30px;
     background-color: white;
+  
 }
 
 #nav-bar
@@ -28,7 +29,7 @@
     padding:0;
     height:100px;
     margin-bottom:10px;
-    background-color:black;
+    background-image:url("image/shakes1.jpg");
  
 }
 
@@ -61,4 +62,7 @@
     
 }
 
-
+#img
+{
+    background-color:aqua;
+}
